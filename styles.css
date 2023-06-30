@@ -24,6 +24,7 @@ background-color: blue;
 .holder{
 	display: flex;
 	justify-content: center;
+	text-wrap: wrap;
 }
 	
 
