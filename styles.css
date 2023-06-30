@@ -23,7 +23,7 @@ background-color: blue;
 
 .holder{
 	display: flex;
-	justify-content: none;
+	justify-content: center;
 }
 	
 
